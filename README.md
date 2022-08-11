@@ -1,2 +1,2 @@
 # SemEval
-Offensive Language identification and classification 
+Offensive Language identification and classification task.
